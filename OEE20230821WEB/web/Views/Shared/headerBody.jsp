@@ -6,7 +6,7 @@
         <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>       
         <ul class="right hide-on-med-and-down">  
             <li><a href="Libreria">Inicio</a></li>
-            <li><a href="Libreria">Libros</a></li>          
+            <li><a href="Libreria">Libreria</a></li>          
         </ul>
     </div>
 </nav>

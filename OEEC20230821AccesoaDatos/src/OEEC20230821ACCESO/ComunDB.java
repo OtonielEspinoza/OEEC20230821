@@ -21,7 +21,7 @@ public class ComunDB {
             + "password=12345;"
             + "loginTimeout=30;encrypt=false;trustServerCertificate=false";*/
 
-     static String connectionUrl = "jdbc:sqlserver://DESKTOP-UK0BLII\\ESPINOZA:1433;"
+     static String connectionUrl = "jdbc:sqlserver://localhost:1433;"
             + "database=Libreria;"
             + "user=espinoza;"
             + "password=12345;"

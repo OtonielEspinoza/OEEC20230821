@@ -2,6 +2,7 @@
 <%@page import="Entidad.Libreria"%>
 <%@page import="java.util.List"%>
 <%@page import="java.util.ArrayList"%>
+<%@page import="controladores.Libreriaservlet"%>
 <!DOCTYPE html>
 <html>
   <head>        
@@ -82,8 +83,8 @@
     </main>
      <jsp:include page="/Views/Shared/footerBody.jsp" />
     <footer>
-        <!-- Contenido del pie de página -->
+     
     </footer>
-    <!-- Tus enlaces a archivos JavaScript aquí -->
+ 
 </body>
 </html>
